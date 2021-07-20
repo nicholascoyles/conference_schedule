@@ -1,0 +1,1 @@
+500,SQLSTATE[HY000]: General error: 1 ambiguous column name: authorId,/home/unn_w18011589/public_html/kf6012Assignment/classes/recordset.class.php,25
